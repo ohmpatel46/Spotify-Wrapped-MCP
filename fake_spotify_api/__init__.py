@@ -1,0 +1,1 @@
+"""Fake Spotify API package."""

@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "external_urls": {"spotify": "https://open.spotify.com/artist/a1"},
+      "genres": ["synthwave", "dream pop"],
+      "href": "http://localhost:7777/v1/artists/a1",
+      "id": "a1",
+      "name": "M83",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:a1"
+    },
+    {
+      "external_urls": {"spotify": "https://open.spotify.com/artist/a2"},
+      "genres": ["indie pop", "chillwave"],
+      "href": "http://localhost:7777/v1/artists/a2",
+      "id": "a2",
+      "name": "Moderators",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:a2"
+    },
+    {
+      "external_urls": {"spotify": "https://open.spotify.com/artist/a3"},
+      "genres": ["dream pop", "indie rock"],
+      "href": "http://localhost:7777/v1/artists/a3",
+      "id": "a3",
+      "name": "Beach House",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:a3"
+    },
+    {
+      "external_urls": {"spotify": "https://open.spotify.com/artist/a4"},
+      "genres": ["dubstep", "future garage"],
+      "href": "http://localhost:7777/v1/artists/a4",
+      "id": "a4",
+      "name": "Burial",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:a4"
+    },
+    {
+      "external_urls": {"spotify": "https://open.spotify.com/artist/a5"},
+      "genres": ["electronic", "indietronica"],
+      "href": "http://localhost:7777/v1/artists/a5",
+      "id": "a5",
+      "name": "Odesza",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:a5"
+    }
+  ],
+  "total": 5,
+  "limit": 20,
+  "offset": 0,
+  "href": "http://localhost:7777/v1/me/top/artists?time_range=short_term&limit=20",
+  "next": null,
+  "previous": null
+}

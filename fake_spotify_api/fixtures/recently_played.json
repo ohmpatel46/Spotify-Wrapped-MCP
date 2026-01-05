@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [{"id": "a1", "name": "M83", "type": "artist", "uri": "spotify:artist:a1"}],
+          "external_urls": {"spotify": "https://open.spotify.com/album/al1"},
+          "href": "http://localhost:7777/v1/albums/al1",
+          "id": "al1",
+          "images": [],
+          "name": "Hurry Up, We're Dreaming",
+          "release_date": "2011-10-18",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:al1"
+        },
+        "artists": [{"id": "a1", "name": "M83", "type": "artist", "uri": "spotify:artist:a1"}],
+        "duration_ms": 263000,
+        "explicit": false,
+        "external_urls": {"spotify": "https://open.spotify.com/track/t1"},
+        "href": "http://localhost:7777/v1/tracks/t1",
+        "id": "t1",
+        "is_local": false,
+        "name": "Midnight City",
+        "popularity": 78,
+        "type": "track",
+        "uri": "spotify:track:t1"
+      },
+      "played_at": "2024-12-01T21:15:00Z"
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [{"id": "a3", "name": "Beach House", "type": "artist", "uri": "spotify:artist:a3"}],
+          "external_urls": {"spotify": "https://open.spotify.com/album/al3"},
+          "href": "http://localhost:7777/v1/albums/al3",
+          "id": "al3",
+          "images": [],
+          "name": "Depression Cherry",
+          "release_date": "2015-08-28",
+          "total_tracks": 9,
+          "type": "album",
+          "uri": "spotify:album:al3"
+        },
+        "artists": [{"id": "a3", "name": "Beach House", "type": "artist", "uri": "spotify:artist:a3"}],
+        "duration_ms": 320000,
+        "explicit": false,
+        "external_urls": {"spotify": "https://open.spotify.com/track/t3"},
+        "href": "http://localhost:7777/v1/tracks/t3",
+        "id": "t3",
+        "is_local": false,
+        "name": "Space Song",
+        "popularity": 81,
+        "type": "track",
+        "uri": "spotify:track:t3"
+      },
+      "played_at": "2024-12-02T20:50:00Z"
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [{"id": "a2", "name": "Moderators", "type": "artist", "uri": "spotify:artist:a2"}],
+          "external_urls": {"spotify": "https://open.spotify.com/album/al2"},
+          "href": "http://localhost:7777/v1/albums/al2",
+          "id": "al2",
+          "images": [],
+          "name": "Neighbourhoods",
+          "release_date": "2012-02-10",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:al2"
+        },
+        "artists": [{"id": "a2", "name": "Moderators", "type": "artist", "uri": "spotify:artist:a2"}],
+        "duration_ms": 228000,
+        "explicit": false,
+        "external_urls": {"spotify": "https://open.spotify.com/track/t2"},
+        "href": "http://localhost:7777/v1/tracks/t2",
+        "id": "t2",
+        "is_local": false,
+        "name": "Bad Kingdom",
+        "popularity": 62,
+        "type": "track",
+        "uri": "spotify:track:t2"
+      },
+      "played_at": "2024-12-03T08:05:00Z"
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [{"id": "a4", "name": "Burial", "type": "artist", "uri": "spotify:artist:a4"}],
+          "external_urls": {"spotify": "https://open.spotify.com/album/al4"},
+          "href": "http://localhost:7777/v1/albums/al4",
+          "id": "al4",
+          "images": [],
+          "name": "Untrue",
+          "release_date": "2007-11-05",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:al4"
+        },
+        "artists": [{"id": "a4", "name": "Burial", "type": "artist", "uri": "spotify:artist:a4"}],
+        "duration_ms": 240000,
+        "explicit": false,
+        "external_urls": {"spotify": "https://open.spotify.com/track/t4"},
+        "href": "http://localhost:7777/v1/tracks/t4",
+        "id": "t4",
+        "is_local": false,
+        "name": "Archangel",
+        "popularity": 55,
+        "type": "track",
+        "uri": "spotify:track:t4"
+      },
+      "played_at": "2024-12-03T23:12:00Z"
+    },
+    {
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [{"id": "a5", "name": "Odesza", "type": "artist", "uri": "spotify:artist:a5"}],
+          "external_urls": {"spotify": "https://open.spotify.com/album/al5"},
+          "href": "http://localhost:7777/v1/albums/al5",
+          "id": "al5",
+          "images": [],
+          "name": "A Moment Apart",
+          "release_date": "2017-09-08",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:al5"
+        },
+        "artists": [{"id": "a5", "name": "Odesza", "type": "artist", "uri": "spotify:artist:a5"}],
+        "duration_ms": 214000,
+        "explicit": false,
+        "external_urls": {"spotify": "https://open.spotify.com/track/t5"},
+        "href": "http://localhost:7777/v1/tracks/t5",
+        "id": "t5",
+        "is_local": false,
+        "name": "A Moment Apart",
+        "popularity": 69,
+        "type": "track",
+        "uri": "spotify:track:t5"
+      },
+      "played_at": "2024-12-04T19:30:00Z"
+    }
+  ],
+  "limit": 20,
+  "href": "http://localhost:7777/v1/me/player/recently-played?limit=20",
+  "next": null,
+  "cursors": {"after": "0"},
+  "total": 5
+}
